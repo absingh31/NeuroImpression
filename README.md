@@ -38,7 +38,5 @@ Clone the repository and change directory to NeuroImpression
 ## Contributors
 
 <B>Abhishek Singh</B>
-                  <p style="font-size: 14px;"><B>Data Scientist</B><br>
-                  <B>Github:</B> absingh31<br>
                   <B>E-mail:</B> absinghemail@gmail.com<br>
                   <B>Contact:</B> (+91) 8072561171<br></p>
